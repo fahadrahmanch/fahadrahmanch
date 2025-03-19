@@ -35,8 +35,7 @@ Now, I focus on building scalable web applications, mastering Git & GitHub, and 
 - 🎧 I love coding while listening to music**  
 - 🌙 I imagine a tech room with computers and a perfect night view 
 
-📫 Connect With Me  
-- GitHub: [github.com/your-username](https://github.com/fahadrahmanch)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/fahadrahmanch)  
+📫 Connect With Me   
+- LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/fahadrahmanch](https://www.linkedin.com/in/fahad-rahman-ch-225195317/))  
 
 🚀 Let's build something amazing together! 💡  
