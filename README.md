@@ -5,10 +5,10 @@
 
 <table>
   <tr>
-    <td style="vertical-align: middle;">
+    <td style="vertical-align: top;">
       <img src="https://github.com/fahadrahmanch/fahadrahmanch/blob/main/ChatGPT%20Image%20May%2023%2C%202025%2C%2004_53_26%20PM.jpg" alt="Anime Boy Coding" width="220" />
     </td>
-    <td style="vertical-align: middle; padding-left: 25px;">
+    <td style="vertical-align: top; padding-left: 25px;">
       <h2 style="margin-top: 0; margin-bottom: 10px;">About Me</h2>
       <ul>
         <li>🧑‍💻 I’m a self-learner focused on growing as a MERN stack developer.</li>
