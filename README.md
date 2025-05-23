@@ -3,7 +3,7 @@
 <h3 align="center"> MERN Stack Developer</h3>
 
 ---
-![Anime Boy Coding](https://media.tenor.com/RKMLDgHv_iQAAAAC/code-anime.gif)
+![Anime Boy Coding]([https://media.tenor.com/RKMLDgHv_iQAAAAC/code-anime.gif](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-d81c-622f-98eb-fee48c12109e/raw?se=2025-05-23T11%3A28%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=8bd35710-e36e-551b-9df3-23e130254613&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-22T19%3A19%3A11Z&ske=2025-05-23T19%3A19%3A11Z&sks=b&skv=2024-08-04&sig=DiM3vjrgxL6LAlAA2DprUiJ8HOrybuNFOhOZYN9PA1U%3D))
 
 ##  About Me
 
