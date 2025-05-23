@@ -3,6 +3,7 @@
 <h3 align="center"> MERN Stack Developer</h3>
 
 ---
+![Chill Anime Boy](https://i.pinimg.com/originals/22/ea/9a/22ea9a6b4178e8c4260f334037d63f5b.gif)
 
 ##  About Me
 
