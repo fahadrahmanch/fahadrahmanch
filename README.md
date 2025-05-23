@@ -7,7 +7,7 @@
 
 
 
- About Me
+## About Me
 
 - 🧠 Diving deep into *JavaScript, Node.js, Express, MongoDB, React*
 
