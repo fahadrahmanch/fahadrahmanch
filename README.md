@@ -3,7 +3,7 @@
 <h3 align="center"> MERN Stack Developer</h3>
 
 ---
-[Live Site 🌐](https://elara-skincare.vercel.app)
+
 ##  About Me
 
 - 🧠 Diving deep into **JavaScript, Node.js, Express, MongoDB, React**
