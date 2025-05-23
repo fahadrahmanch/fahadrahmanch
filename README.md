@@ -1,4 +1,3 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Fahad Rahman CH</span></h1>
 
 <table>
   <tr>
