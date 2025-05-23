@@ -8,7 +8,7 @@
     <td>
       <img src="https://github.com/fahadrahmanch/fahadrahmanch/blob/main/ChatGPT%20Image%20May%2023%2C%202025%2C%2004_53_26%20PM.jpg" alt="Anime Boy Coding" width="220" />
     </td>
-    <td style="vertical-align: top; padding-left: 25px;">
+    <td style="vertical-align: top; padding-left: 12px;">
       <h2>About Me</h2>
 
    <ul>
