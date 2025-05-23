@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Fahad Rahman CH</span></h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-
+---
 
 <table>
   <tr>
