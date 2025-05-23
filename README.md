@@ -3,7 +3,7 @@
 <h3 align="center"> MERN Stack Developer</h3>
 
 ---
-![Anime Boy Coding](https://media.tenor.com/RKMLDgHv_iQAAAAC/code-anime.gif)
+![Anime Boy Coding](https://i.imgur.com/yourfilename.gif)
 
 
 
