@@ -10,7 +10,7 @@
     </td>
     <td style="vertical-align: top; padding-left: 25px;">
       <h2>About Me</h2>
-<!--       <p>🧠 Diving deep into <em>JavaScript, Node.js, Express, MongoDB, React</em></p> --><p>
+<p>
   Hey, I'm Fahad — a MERN Stack Developer who turned curiosity into a daily coding habit.<br />
   I started in Instrumentation Engineering, but soon realized my real interest was in building things on the web.<br />
   Now, I spend most of my time writing code, learning new concepts, and improving my skills in JavaScript, Node.js, Express, MongoDB, and React.<br />
@@ -18,7 +18,7 @@
   Whether it's front-end design or back-end logic, I love turning ideas into real, working applications.
 </p>
 
-    </td>
+    
   </tr>
 </table>
 
