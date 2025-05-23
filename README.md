@@ -3,7 +3,7 @@
 <h3 align="center"> MERN Stack Developer</h3>
 
 ---
-![Anime Boy Coding](https://i.imgur.com/yourfilename.gif)
+![Anime Boy Coding](https://github.com/fahadrahmanch/fahadrahmanch/blob/main/ChatGPT%20Image%20May%2023%2C%202025%2C%2004_53_26%20PM.png)
 
 
 
