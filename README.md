@@ -3,7 +3,7 @@
 <h3 align="center"> MERN Stack Developer</h3>
 
 ---
-![Anime Chill GIF](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+![Anime Boy Coding](https://media.tenor.com/RKMLDgHv_iQAAAAC/code-anime.gif)
 
 ##  About Me
 
