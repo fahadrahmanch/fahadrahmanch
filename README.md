@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Fahad Rahman CH</span></h1>
 <h3 align="center">MERN Stack Developer</h3>
 
----
+
 
 <table>
   <tr>
@@ -42,12 +42,4 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/fahad-rahman-ch-225195317/)
 - 📧 fahadrahman1342@gmail.com
 
----
 
-## 🧠 Quote I Live By
-
-> "Your thoughts become things." — The Secret
-
----
-
-If you find something interesting here, don't forget to ⭐ a repo or connect with me!
