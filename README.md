@@ -8,8 +8,8 @@
     <td style="vertical-align: middle;">
       <img src="https://github.com/fahadrahmanch/fahadrahmanch/blob/main/ChatGPT%20Image%20May%2023%2C%202025%2C%2004_53_26%20PM.jpg" alt="Anime Boy Coding" width="220" />
     </td>
-    <td style=" padding-left: 25px;">
-      <h2 style="margin-top: 0;">About Me</h2>
+    <td style="vertical-align: middle; padding-left: 25px;">
+      <h2 style="margin-top: 0; margin-bottom: 10px;">About Me</h2>
       <ul>
         <li>🧑‍💻 I’m a self-learner focused on growing as a MERN stack developer.</li>
         <li>🛠️ I enjoy building real-world projects and learning through practice.</li>
@@ -18,7 +18,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -46,6 +45,7 @@
 ---
 
 ## 🧠 Quote I Live By
+
 > "Your thoughts become things." — The Secret
 
 ---
