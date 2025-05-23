@@ -1,16 +1,19 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6;">Fahad Rahman CH</span></h1>
-<h3 align="center"> MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 ---
-                  
-![Anime Boy Coding](https://github.com/fahadrahmanch/fahadrahmanch/blob/main/ChatGPT%20Image%20May%2023%2C%202025%2C%2004_53_26%20PM.jpg)
 
-
-
-## About Me
-
-- 🧠 Diving deep into *JavaScript, Node.js, Express, MongoDB, React*
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/fahadrahmanch/fahadrahmanch/blob/main/ChatGPT%20Image%20May%2023%2C%202025%2C%2004_53_26%20PM.jpg" alt="Anime Boy Coding" width="220" />
+    </td>
+    <td style="vertical-align: top; padding-left: 25px;">
+      <h2>About Me</h2>
+      <p>🧠 Diving deep into <em>JavaScript, Node.js, Express, MongoDB, React</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
